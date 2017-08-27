@@ -15,7 +15,7 @@
 			</p>
 		</div>
 		<div class="profile-contact-item">
-			<a class="btn btn-icon" href="https://github.com/eperedo" target="_blank" title="check my open source repos">
+			<a class="btn btn-icon" href="https://github.com/eperedo" rel="noopener" target="_blank" title="check my open source repos">
 				<img src="/static/img/svg/link-icon.svg" alt="github link" width="18" height="18">
 			</a>
 			<p class="contact-item-value">
