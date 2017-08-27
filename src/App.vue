@@ -29,6 +29,6 @@ export default {
 
 #app {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 1.8fr 1fr;
 }
 </style>
