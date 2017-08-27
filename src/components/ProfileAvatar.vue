@@ -13,7 +13,7 @@
 
 function data() {
 	return {
-		urlImage: 'http://lorempixel.com/output/business-q-c-250-250-2.jpg',
+		urlImage: '//lorempixel.com/output/business-q-c-250-250-2.jpg',
 	};
 }
 
