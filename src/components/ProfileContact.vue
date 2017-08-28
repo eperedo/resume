@@ -68,6 +68,12 @@ export default {
 		margin-left: 15px;
 	}
 }
+
+@media (max-width: 990px) {
+	.profile-contact-item {
+		justify-content: center;
+	}
+}
 </style>
 
 

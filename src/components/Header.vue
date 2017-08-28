@@ -34,6 +34,13 @@ export default {
 		margin: 0 20px 20px 0;
 	}
 }
+
+@media (max-width: 990px) {
+	.header-container {
+		grid-column: 1/1;
+		text-align: center;
+	}
+}
 </style>
 
 

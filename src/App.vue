@@ -31,4 +31,10 @@ export default {
 	display: grid;
 	grid-template-columns: 1.8fr 1fr;
 }
+
+@media (max-width: 990px) {
+	#app {
+		grid-template-columns: 1fr;
+	}
+}
 </style>
