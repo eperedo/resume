@@ -67,12 +67,14 @@ export default {
 		width: 109px;
 
 		.number {
+			font-family: map-get($fonts, black);
 			font-size: map-get($sizes, big);
 			margin: 0;
 			padding-top: 10%;
 		}
 
 		.time {
+			font-family: map-get($fonts, black);
 			font-size: map-get($sizes, medium);
 		}
 	}
