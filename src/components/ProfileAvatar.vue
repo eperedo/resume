@@ -3,7 +3,7 @@
 		<figure class="image-container">
 			<img class="image-avatar" v-bind:src="urlImage" alt="Eduardo Peredo" />
 			<figcaption>
-				Developer with 8 years of experience who loves writes javascript for building web applications. I can work in frontend or backend developer using NodeJs.
+				Developer with 8 years of experience who loves writes javascript for building web applications. I can work as frontend or backend developer using NodeJs.
 			</figcaption>
 		</figure>
 	</section>

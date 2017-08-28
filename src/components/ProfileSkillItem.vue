@@ -30,9 +30,7 @@ export default {
 .skill-item {
 	display: flex;
 	flex-direction: column;
-	margin-left: 31%;
 	margin-top: 8%;
-	width: 100%;
 
 	.skill-description {
 		color: map-get($colors, black);
