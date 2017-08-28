@@ -26,6 +26,7 @@ export default {
 .profile {
 	background: map-get($colors, blue-sky);
 	box-shadow: 0 2px 8px 0 map-get($colors, shadow-black);
+	z-index: 1;
 }
 </style>
 

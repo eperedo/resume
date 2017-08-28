@@ -91,6 +91,7 @@ export default {
 	margin-top: 7%;
 	padding-left: 7%;
 	position: relative;
+	z-index: 1;
 }
 </style>
 
