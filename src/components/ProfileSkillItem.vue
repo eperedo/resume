@@ -43,6 +43,7 @@ export default {
 	}
 
 	.skill-title {
+		font-family: map-get($fonts, black);
 		font-size: map-get($sizes, large);
 		margin: 0;
 	}

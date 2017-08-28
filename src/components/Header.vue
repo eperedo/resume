@@ -22,6 +22,7 @@ export default {
 	text-align: right;
 
 	h1 {
+		font-family: 'Roboto-Black';
 		font-size: map-get($sizes, very-big);
 		letter-spacing: -0.21px;
 		margin: 20px 20px 20px 0;

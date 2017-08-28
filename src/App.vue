@@ -23,7 +23,7 @@ export default {
 
 <style lang="scss">
 * {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto-Medium', sans-serif;
 	font-size: 16px;
 }
 
