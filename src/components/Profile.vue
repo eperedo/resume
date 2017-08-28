@@ -25,7 +25,6 @@ export default {
 <style lang="scss" scoped>
 .profile {
 	background: map-get($colors, blue-sky);
-	border: 1px solid red;
 	box-shadow: 0 2px 8px 0 map-get($colors, shadow-black);
 }
 </style>
