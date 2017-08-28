@@ -27,6 +27,10 @@ export default {
 	font-size: 16px;
 }
 
+html {
+	overflow-x: hidden;
+}
+
 #app {
 	display: grid;
 	grid-template-columns: 1.8fr 1fr;
