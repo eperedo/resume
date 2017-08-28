@@ -60,6 +60,7 @@ export default {
 	.profile-contact-item {
 		display: flex;
 		width: 100%;
+		margin-bottom: 2%;
 	}
 
 	.contact-item-value {
