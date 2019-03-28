@@ -19,12 +19,12 @@ function data() {
 		timeline: [
 			{
 				id: 1,
-				companyName: 'FullFactory',
+				companyName: 'FullFactory/AppRunn',
 				duration: {
-					number: ' - ',
-					type: 'Present',
+					number: '2',
+					type: 'Years',
 				},
-				position: 'Full Stack Developer',
+				position: 'Software Developer/Product Manager Jr.',
 				jobs: ['Build web applications using VueJs 1/2',
 					'Build json rest apis using NodeJs, HapiJs, Objection and other fun stuff.'],
 			},
@@ -36,7 +36,7 @@ function data() {
 					type: 'Years',
 				},
 				position: 'Lead Developer',
-				jobs: ['Lead developer of the development section.',
+				jobs: ['Lead developer.',
 					'Constant training of the developers in charge with talks, courses, workshops, etc.',
 					'Create and update the initial structure of all the projects in the different technologies that the company work with.'],
 			},
