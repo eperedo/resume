@@ -14,17 +14,17 @@ function data() {
 			{
 				id: 1,
 				title: 'Front-End',
-				description: 'Javascript, CSS, HTML, Vue, Angular 1.x, React, SCSS, Progressive Web Apps, WebPack, Babel',
+				description: 'Javascript, CSS, HTML, Vue, Cypress',
 			},
 			{
 				id: 2,
 				title: 'Back-End',
-				description: 'C#, NodeJs, HapiJs, Objection, JWT',
+				description: 'NodeJs, HapiJs, Objection, Grapqhl with Apollo',
 			},
 			{
 				id: 3,
 				title: 'Others',
-				description: 'Postgres, MySql, Mongo, Redis, REST',
+				description: 'Postgres, MySql, Mongo, Redis',
 			},
 		],
 	};
